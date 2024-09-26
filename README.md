@@ -27,7 +27,7 @@ I don't want that to mean my skills should stop with the technical however. I be
 I've had a music production hobby forever and ever and ever etc. And from my experience, there comes a time when the off-the-shelf software just doesn't cut it anymore, your weird, overly specific, technical ambitions for the sound you want can't quite be created by something someone else has thought of quite just yet. So being able to make VST's is a skill I'm working towards at the moment. C++, JUCE, and CMake because xCode is just too big!
 
 Give me a listen on Spotify if you fancy:
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/5x32vnxfTfyIQOEQ2jDzQh?si=b18285db2bb34e69)
+[![Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5AeR1avRbF26dDA5QYpsx4?si=np3bhwpJRkCrMe4GsDmPJQ)
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus&logoColor=white)
